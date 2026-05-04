@@ -1,6 +1,6 @@
 # 🌳 Le Baobab Gourmand
  site victrine de restaurant qui met en valeur la richesse de la cuisine africaine, en particulier sénégalaise.
-Le site permet aux utilisateurs de découvrir le menu, voir des images des plats, et contacter le restauran
+Le site permet aux utilisateurs de découvrir le menu, voir des images des plats, et contacter le restaurant.
 
 
 ## Sujet choisi
