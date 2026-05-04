@@ -52,6 +52,7 @@ Le site permet aux utilisateurs de découvrir le menu, voir des images des plats
 - SEYNABOU DIANE
 - MAME DIARRA BOUSSO DIALLO
 - KKHADIDIATOU SECK
+  
  — Étudiant(e) UCAK L1, module Développement Web Front-end
 
 ## Remerciements
