@@ -46,8 +46,8 @@ Le site permet aux utilisateurs de découvrir le menu, voir des images des plats
 6. **Badge** — catégorisation des plats
 7. **Form** — formulaire de contact avec validation
 ## capture d'ecran
-![Accueil](/image/cap1.jpeg)
-![menu](/image/cap2.jpeg)
+![Accueil](/images/cap1.jpeg)
+![menu](/images/cap2.jpeg)
 ## Équipe
 - SEYNABOU DIANE
 - MAME DIARRA BOUSSO DIALLO
