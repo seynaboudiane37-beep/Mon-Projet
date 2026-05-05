@@ -48,11 +48,10 @@ Le site permet aux utilisateurs de découvrir le menu, voir des images des plats
 
    ## site utilisees
    
-   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
    
-   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
-   
-  <link rel="stylesheet" href="css/style.css">
+   https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+  
   
 ## Site en ligne
  https://seynaboudiane37-beep.github.io/Mon-Projet/  
