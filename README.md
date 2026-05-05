@@ -55,10 +55,13 @@ Le site permet aux utilisateurs de découvrir le menu, voir des images des plats
  https://seynaboudiane37-beep.github.io/Mon-Projet/  
  
 ## capture d'ecran
-telephone , tablette et ordinateur.
+
+# telephone , tablette et ordinateur.
+
 ![Accueil](/images/cap1.jpeg)
 ![accueil](/images/cap2.jpeg)
 ![accueil](/images/capp3.jpeg)
+
 ## Équipe
 - SEYNABOU DIANE
 - MAME DIARRA BOUSSO DIALLO
