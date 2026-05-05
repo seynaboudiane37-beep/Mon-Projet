@@ -62,7 +62,7 @@ Le site permet aux utilisateurs de découvrir le menu, voir des images des plats
 
 # tablette
 
-![accueil](/images/cap2.jpeg)
+![accueil](/images/cap.png)
 
 # ordinateur
 
