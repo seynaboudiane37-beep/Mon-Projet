@@ -45,10 +45,13 @@ Le site permet aux utilisateurs de découvrir le menu, voir des images des plats
 5. **Alert** — bandeau menu du jour + message de succès formulaire
 6. **Badge** — catégorisation des plats
 7. **Form** — formulaire de contact avec validation
-8. 
+
    ## site utilisees
+   
    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+   
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+   
   <link rel="stylesheet" href="css/style.css">
   
 ## Site en ligne
