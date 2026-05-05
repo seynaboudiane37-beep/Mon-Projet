@@ -56,10 +56,16 @@ Le site permet aux utilisateurs de découvrir le menu, voir des images des plats
  
 ## capture d'ecran
 
-# telephone , tablette et ordinateur.
+# telephone 
 
 ![Accueil](/images/cap1.jpeg)
+
+# tablette
+
 ![accueil](/images/cap2.jpeg)
+
+# ordinateur
+
 ![accueil](/images/capp3.jpeg)
 
 ## Équipe
