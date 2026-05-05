@@ -66,7 +66,7 @@ Le site permet aux utilisateurs de découvrir le menu, voir des images des plats
 
 # ordinateur
 
-![accueil](/images/capp3.jpeg)
+![accueil](https://github.com/seynaboudiane37-beep/Mon-Projet/blob/main/cap.png)
 
 ## Équipe
 - SEYNABOU DIANE
