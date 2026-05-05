@@ -45,11 +45,15 @@ Le site permet aux utilisateurs de découvrir le menu, voir des images des plats
 5. **Alert** — bandeau menu du jour + message de succès formulaire
 6. **Badge** — catégorisation des plats
 7. **Form** — formulaire de contact avec validation
+   site utilisees
+   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 ## Site en ligne
  https://seynaboudiane37-beep.github.io/Mon-Projet/  
 ## capture d'ecran
+telephone , tablette et ordinateur.
 ![Accueil](/images/cap1.jpeg)
-![menu](/images/cap2.jpeg)
+![accueil](/images/cap2.jpeg)
+![accueil](/images/capp3.jpeg)
 ## Équipe
 - SEYNABOU DIANE
 - MAME DIARRA BOUSSO DIALLO
