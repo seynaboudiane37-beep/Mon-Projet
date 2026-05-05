@@ -62,7 +62,7 @@ Le site permet aux utilisateurs de découvrir le menu, voir des images des plats
 
 # tablette
 
-![accueil](https://github.com/seynaboudiane37-beep/Mon-Projet/blob/main/cap.png)
+![accueil](https://github.com/seynaboudiane37-beep/Mon-Projet/blob/main/capp3.jpeg)
 
 # ordinateur
 
